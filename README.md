@@ -1,2 +1,2 @@
-# GPUDirectRDMA_IB
-IB Based GPUDirect RDMA 
+
+Sample libibverbs based apps for GPUDirect RDMA 
